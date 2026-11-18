@@ -1,6 +1,5 @@
 \name{mixggm-package}
 \alias{mixggm-package}
-\alias{mixggm}
 \docType{package}
 
 \title{Mixtures of Gaussian graphical models}
