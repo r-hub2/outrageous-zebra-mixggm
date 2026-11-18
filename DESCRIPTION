@@ -1,0 +1,33 @@
+Package: mixggm
+Version: 1.2
+Date: 2026-11-18
+Title: Mixtures of Gaussian Graphical Models
+Description: Mixtures of Gaussian graphical models for model-based clustering with sparse covariance and concentration matrices (Fop, Murphy, and Scrucca, 2018, <doi:10.1007/s11222-018-9838-y>).
+Authors@R: c(person("Michael", "Fop", role = "aut",
+                    email = "michael.fop@ucd.ie",
+                    comment = c(ORCID = "0000-0003-3936-2757")),
+             person("Luca", "Scrucca", role = c("aut", "cre"),
+                     email = "luca.scrucca@unibo.it",
+                    comment = c(ORCID = "0000-0003-3826-0484")),
+             person("Thomas Brendan", "Murphy", role = "ctb",
+                    comment = c(ORCID = "0000-0002-5668-7046")))
+Depends: R (>= 4.6)
+Imports: GA (>= 3.2.4), mclust (>= 6.1), Rcpp (>= 1.0), foreach,
+        memoise, network, cli, crayon
+Suggests: MASS, gclus, devtools, knitr (>= 1.52), quarto (>= 1.5.1)
+LinkingTo: Rcpp, RcppArmadillo
+VignetteBuilder: quarto
+SystemRequirements: Quarto command line tools (https://quarto.org)
+License: GPL (>= 2)
+Repository: CRAN
+ByteCompile: true
+NeedsCompilation: yes
+Encoding: UTF-8
+Config/roxygen2/version: 8.1.1
+Packaged: 2026-11-18 15:32:00 UTC; luca
+Author: Michael Fop [aut] (ORCID: <https://orcid.org/0000-0003-3936-2757>),
+  Luca Scrucca [aut, cre] (ORCID:
+    <https://orcid.org/0000-0003-3826-0484>),
+  Thomas Brendan Murphy [ctb] (ORCID:
+    <https://orcid.org/0000-0002-5668-7046>)
+Maintainer: Luca Scrucca <luca.scrucca@unibo.it>

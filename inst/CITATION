@@ -1,0 +1,14 @@
+citHeader("To cite 'mixgmm' R package in publications, please use:")
+
+bibentry(bibtype = "Article",
+         title = "Model-based clustering with sparse covariance matrices",
+         author = c(person(given="Michael", family="Fop"),
+                    person(given="Luca", family="Scrucca"),
+                    person(given=c("T.", "Brendan"), family="Murphy")),
+         journal = "{S}tatistics and {C}omputing",
+         year = "2019",
+         volume = "29",
+         number = "4",
+         pages = "791–819",
+         issn = "1573-1375",
+         doi = "10.1007/s11222-018-9838-y")
