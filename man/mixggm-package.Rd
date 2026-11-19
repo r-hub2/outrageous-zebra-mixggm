@@ -13,11 +13,13 @@ The main functions are \code{\link{mixGGM}}, \code{\link{searchGGM}} and \code{\
 \author{
 Michael Fop, Luca Scrucca and Thomas Brendan Murphy.
 
-Maintainer: Michael Fop \email{michael.fop@ucd.ie}
+Maintainer: Luca Scrucca \email{luca.scrucca@unibo.it}
 }
 
 \references{
-Fop, M., Murphy, T.B., and Scrucca, L. (2019) Model-based clustering with sparse covariance matrices. **Statistics and Computing**, 29:4, 791–819.
+Fop, M., Murphy, T.B., and Scrucca, L. (2019) "Model-based clustering with sparse
+  covariance matrices." Statistics and Computing, 29(4), 791–819.
+  <https://doi.org/10.1007/s11222-018-9838-y>.
 }
 
 \keyword{package}

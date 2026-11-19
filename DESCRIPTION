@@ -22,7 +22,7 @@ Repository: CRAN
 ByteCompile: true
 NeedsCompilation: yes
 Encoding: UTF-8
-Packaged: 2026-11-18 19:43:41 UTC; luca
+Packaged: 2026-11-19 14:52:39 UTC; luca
 Author: Michael Fop [aut] (ORCID: <https://orcid.org/0000-0003-3936-2757>),
   Luca Scrucca [aut, cre] (ORCID:
     <https://orcid.org/0000-0003-3826-0484>),
